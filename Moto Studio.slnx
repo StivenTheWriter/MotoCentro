@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Moto.Application/Moto.Application.csproj" Id="197a6a24-2bfd-4855-93e5-086aae733834" />
+  <Project Path="MotoStudio.Api/MotoStudio.Api.csproj" />
+  <Project Path="MotoStudio.Domain/MotoStudio.Domain.csproj" />
+</Solution>
